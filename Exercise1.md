@@ -157,6 +157,7 @@ This part of the exercise is not for handing in, just for thinking about. Talk t
 
 The main problem of the project is to ensure that no orders are lost. 
  - What sub-problems do you think this consists of?
+    ->synkronisering av delsystemer
  - What will you have to make in order to solve these problems?
 
 Maybe try thinking about the happy case of the system:
